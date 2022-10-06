@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-repeta/static/css/main.581e0faa.css",
+    "main.js": "/react-repeta/static/js/main.0e831af6.js",
+    "static/media/default.jpg": "/react-repeta/static/media/default.2e01288c0c1a3f24d743.jpg",
+    "index.html": "/react-repeta/index.html",
+    "main.581e0faa.css.map": "/react-repeta/static/css/main.581e0faa.css.map",
+    "main.0e831af6.js.map": "/react-repeta/static/js/main.0e831af6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.581e0faa.css",
+    "static/js/main.0e831af6.js"
+  ]
+}
